@@ -1,0 +1,12 @@
+{
+      "AWSEBDockerrunVersion": "1",
+      "Image": {
+        "Name": "image url",
+        "Update": "true"
+      },
+      "Ports": [
+        {
+          "ContainerPort": "1337"
+        }
+      ]
+}
